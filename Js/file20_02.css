@@ -1,0 +1,52 @@
+*
+{
+  margin: 0;         
+  padding:0;
+}
+.container
+{
+    min-height: 100px;
+    width: 80%;
+    border: 2px solid black;
+    margin: auto;
+}
+.header
+{
+    border: 2px solid black;
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+height: 50px;
+}
+.header .child1
+{
+    border: 2px solid black;
+    padding: 3%;
+    width: 30%; 
+    float: left;
+    margin-top: 3%;
+    margin-left:3%;
+    
+}
+.header .child2
+{
+    border: 2px solid black;
+    padding: 3%;
+    width: 30%;  
+    float: right;
+    margin-top: 3%;
+    margin-right: 3%;
+}
+.slider
+{
+    border: 2px solid black;
+    margin-top: 3px;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding: 15%;
+}
+.slider
+{
+    border: 2px solid black;
+    
+}
