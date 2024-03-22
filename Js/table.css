@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+table ,th, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table tr #heading th{
+    background-color: black;
+    
+}

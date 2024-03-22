@@ -15,7 +15,7 @@ nav{
     background-color: black;
     position: fixed;
     top:0;
-    overflow: hidden;
+     
 
 }
 nav ul{
@@ -40,14 +40,30 @@ nav ul li a{
 
     width: 100%;
     height: 100vh;
-    background-color: aqua;
+     
+  /*  background-color: aqua; */
+    background-image:  linear-gradient(to right, #bdc3c7, #2c3e50);;
 
 }
+
 #option1 h2{
-    color: black;
-    padding-top: 100px;
+    color:cornsilk;
     text-align: center;
+    padding-top:90px;
 }
+    
+     
+/* #optional #hometext{
+    width: 70%;
+    padding-top: 20px;
+    min-height: 100px;
+    border: 3px solid red;
+}
+#hometext img{
+    width: 30%;
+} */
+
+
 #option2 h2{
     color: black;
     padding-top: 100px;
